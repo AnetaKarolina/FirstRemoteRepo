@@ -1,3 +1,4 @@
 chleb		4,00
 jajka		7,00
 masło		3,5
+ryby 		23,50
